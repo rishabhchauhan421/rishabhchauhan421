@@ -26,5 +26,5 @@
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)www.linkedin.com/in/rishabhchauhan421
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
