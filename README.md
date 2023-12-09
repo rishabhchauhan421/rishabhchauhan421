@@ -5,7 +5,7 @@
 
 - 🤝 I’m had for experience with **oper source contribution, hactober fest contributions, Freelancing website Designing and more**
 
-- 📝 I regularly Practicing code on Leetcode at [here](https://leetcode.com/rshbhchauhan/)
+- 📝 I regular Practice code on Leetcode at [here](https://leetcode.com/rshbhchauhan/)
 
 - 📫 How to reach me **rshbhchauhan1@gmail.com**
 
