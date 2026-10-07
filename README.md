@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **rshbhchauhan1@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](#)
-
 - ⚡ Fun fact **I code with a side of Kurkure/Lays 🍪 – because every great algorithm deserves a flavorful twist! 🌶️👨‍💻**
 
 
